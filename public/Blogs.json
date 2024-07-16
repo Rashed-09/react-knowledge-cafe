@@ -1,0 +1,33 @@
+[
+    {
+      "id": "1",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/ct5hF79/pexels-cottonbro-4691216.jpg",
+      "posted_date": "2024-07-15",
+      "reading_time": 5,
+      "title": "Understanding AI and Its Applications",
+      "cover": "https://i.ibb.co/wN513cZ/high-angle-desktop-with-laptop-copy-space.jpg",
+      "hashtags": ["AI", "Technology", "Innovation", "Future"]
+    },
+    {
+      "id": "2",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/sJKtq4B/pexels-weddingphotography-2048434.jpg",
+      "posted_date": "2024-07-14",
+      "reading_time": 8,
+      "title": "The Impact of Climate Change",
+      "cover": "https://i.ibb.co/SmdQj07/digital-laptop-working-global-business-concept.jpg",
+      "hashtags": ["ClimateChange", "Environment", "Sustainability", "GlobalWarming"]
+    },
+    {
+      "id": "3",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/58h5kkx/pexels-inzmamkhan11-1134204.jpg",
+      "posted_date": "2024-07-13",
+      "reading_time": 10,
+      "title": "Advancements in Renewable Energy",
+      "cover": "https://i.ibb.co/ZxfnH9p/top-view-desk-concept-with-coffee.jpg",
+      "hashtags": ["RenewableEnergy", "CleanEnergy", "SolarPower", "WindEnergy"]
+    }
+  ]
+  
