@@ -12,9 +12,8 @@ const Blogs = () => {
     },[])
     // console.log(blogs)
     return (
-        <div className="md:w-2/3">
+        <div className="md:w-2/3 mr-3">
             <div>
-                <h1 className="text-2xl font-bold">Blogs</h1>
                 {
                     blogs.map(blog => <Blog key={blog.id} blog={blog}></Blog>)
                 }
