@@ -23,7 +23,7 @@ function App() {
   return (
     <div className='w-4/5 mx-auto'>
       <Header></Header>
-      <div className='flex p-4 mx-4'>
+      <div className='md:flex p-4 mx-4'>
       <Blogs readingTimeHandle={readingTimeHandle} bookmarksHandle={bookmarksHandle}></Blogs>
       <Bookmarks 
       bookmarks={bookmarks}

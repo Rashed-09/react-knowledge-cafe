@@ -35,7 +35,9 @@ const Blog = ({blog, bookmarksHandle, readingTimeHandle}) => {
 };
 
 Blog.propTypes  = {
-    blog:PropTypes.object.isRequired
+    blog:PropTypes.object.isRequired,
+    bookmarksHandle:PropTypes.func,
+    readingTimeHandle:PropTypes.func
 }
 
 export default Blog;
